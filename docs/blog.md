@@ -4,7 +4,7 @@ Ho creato un account Github, un sito con MkDocs su cui pubblicherò gli avvenime
 
 ## IDEE
 
-Oggi abbiamo prodotto tutti insieme alcune idee di istallazioni interattive per il progetto di Piazza Garibaldi.
+Oggi abbiamo prodotto tutti insieme alcune idee di istallazioni interattive per il progetto su Piazza Garibaldi.
 
 • Installare un totem o un video installazione
 interattiva sulla quale le persone che passano
