@@ -16,7 +16,7 @@ tramite l’utilizzo di un piezoelettrico a ventosa abbiamo trasformato il mondo
 
 abbiamo pensato di portare il mondo a Piazza Garibaldi per tentare un approccio tra noi e le persone del luogo.
 
-Per essere sicuri della riuscita di questa sperimentazione, abbiamo deciso di portare prima il mondo per le strade della pigna secca. (abbiamo constatato che per trasportare il mondo sono sufficienti 2 persone. Mentre lo portavamo, abbiamo notato che non tutti i passanti sono voluti entrare in contatto con noi nonostante alcuni provassero interesse nella visione dell’opera. Alcune persone, essendo troppo concentrate nel lavoro che stavano svolgendo, non si sono rese conto del mondo che gli passava davanti. Siamo, però, riusciti a entrare in contatto con alcuni residenti del posto, principalmente negozianti, i quali hanno accettato la nostra proposta di farsi una foto con il mondo.
+Per essere sicuri della riuscita di questa sperimentazione, abbiamo deciso di portare prima il mondo per le strade della Pignasecca. (abbiamo constatato che per trasportare il mondo sono sufficienti 2 persone. Mentre lo portavamo, abbiamo notato che non tutti i passanti sono voluti entrare in contatto con noi nonostante alcuni provassero interesse nella visione dell’opera. Alcune persone, essendo troppo concentrate nel lavoro che stavano svolgendo, non si sono rese conto del mondo che gli passava davanti. Siamo, però, riusciti a entrare in contatto con alcuni residenti del posto, principalmente negozianti, i quali hanno accettato la nostra proposta di farsi una foto con il mondo.
 Ps: il mondo è scomodo da trasportare 😊).
 
 ## 4. Una tosta capa schiumosa
