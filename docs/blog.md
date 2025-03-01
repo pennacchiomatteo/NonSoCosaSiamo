@@ -19,7 +19,7 @@ abbiamo pensato di portare il mondo a Piazza Garibaldi per tentare un approccio 
 Per essere sicuri della riuscita di questa sperimentazione, abbiamo deciso di portare prima il mondo per le strade della Pignasecca. (abbiamo constatato che per trasportare il mondo sono sufficienti 2 persone. Mentre lo portavamo, abbiamo notato che non tutti i passanti sono voluti entrare in contatto con noi nonostante alcuni provassero interesse nella visione dell’opera. Alcune persone, essendo troppo concentrate nel lavoro che stavano svolgendo, non si sono rese conto del mondo che gli passava davanti. Siamo, però, riusciti a entrare in contatto con alcuni residenti del posto, principalmente negozianti, i quali hanno accettato la nostra proposta di farsi una foto con il mondo.
 Ps: il mondo è scomodo da trasportare 😊).
 
-## 4. Una tosta capa schiumosa
+## 4. Caschi
 
 Abbiamo pensato di realizzare dei costumi per chi dovrà trasportare il mondo. Pensavamo a 3 caschi di materiali diversi: uno di cartone, uno di carta e uno con uno strato di spugna, un secondo strato di schiuma espansa successivamente levigata e un terzo strato di gesso. I primi due non hanno mai visto la luce, mentre il terzo è stato un successo che però ci ha fatto rendere conto che ai costumi serve un tocco di creatività e funzionalità.
 
