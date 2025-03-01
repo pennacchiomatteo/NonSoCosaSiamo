@@ -2,22 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2024-11-22</lastmod>
+         <lastmod>2025-03-01</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/about/</loc>
-         <lastmod>2024-11-22</lastmod>
+         <lastmod>2025-03-01</lastmod>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/blog/</loc>
-         <lastmod>2024-11-22</lastmod>
+         <lastmod>2025-03-01</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/posts/da3/</loc>
-         <lastmod>2024-11-22</lastmod>
-    </url>
-    <url>
-         <loc>https://mydomain.org/mysite/posts/day2/</loc>
-         <lastmod>2024-11-22</lastmod>
+         <loc>https://mydomain.org/mysite/works/</loc>
+         <lastmod>2025-03-01</lastmod>
     </url>
 </urlset>
