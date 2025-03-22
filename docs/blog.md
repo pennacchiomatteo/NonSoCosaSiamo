@@ -108,3 +108,7 @@ Ci siamo resi conto di star facendo troppa pratica e 0 teoria. Abbiamo fatto un 
 ## *Perla del Giorno:*
 
 "Se non ti fermi, non sai cosa vuol dire muoversi/non sai come muoverti."
+
+## Transcultura
+
+Il progetto su piazza Garibaldi continua soffermandoci sulle varie culture presenti in piazza. Abbiamo fatto un censimento dei negozi,ristoranti,barbierie,macellerie... presenti in piazza. Ispirandoci al progetto [Humanae](https://angelicadass.com/photography/humanae/) di Angelica Dass, abbiamo iniziato a scattare foto agli altri ragazzi in laboratorio e mettere come sfondo il loro colore della pelle. Stiamo pensando a come coinvolgerci in qualche modo Piazza Garibaldi.
