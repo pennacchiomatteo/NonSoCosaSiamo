@@ -113,10 +113,6 @@ Ci siamo resi conto di star facendo troppa pratica e 0 teoria. Abbiamo fatto un 
 
 Il progetto su Piazza Garibaldi continua soffermandoci sulle varie culture presenti in piazza. Abbiamo fatto un censimento dei negozi,ristoranti,barbierie,macellerie... trovati in giro. Ispirandoci al progetto [Humanae](https://angelicadass.com/photography/humanae/) di Angelica Dass, abbiamo iniziato a scattare foto agli altri ragazzi in laboratorio e mettere come sfondo il loro colore della pelle. Stiamo pensando a come coinvolgerci in qualche modo Piazza Garibaldi.
 Le foto hanno trovato senso in AIDENTITY. Grazie all' IA, abbiamo fatto si che ogni soggetto in ogni foto urlasse; un' emozione così reale, così viva ma generata da un software. Video qui -  
-<video width="640" height="360" controls>
-  <source src="docs/IMG_1791.MP4" type="video/mp4">
-  Il tuo browser non supporta il tag video.
-</video> .
-
+![](docs/IMG_1791.MP4){video}
 
 Per quanto riguarda Piazza Garibaldi, siamo riusciti a interagire con alcuni ristoranti senegalesi scattandogli foto e stampandogliele e registrando dei video mentre cucinavano. Abbiamo poi registrato un "mini spot" per il torneo di basket che è avvenuto il 16 maggio a Piazza Garibaldi. Per l'occasione, la pasticceria Lauri ci ha aiutato preparandoci delle sfogliatelle halal mentre il ristorante Aladin ci ha offerto gratuitamente un buon numero dei loro panini napoletani halal.
