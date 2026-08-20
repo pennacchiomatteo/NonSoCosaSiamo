@@ -1,4 +1,5 @@
+/* Limita l'altezza del logo nell'header */
 .md-header__button.md-logo img {
-    height: 2510px !important; /* Cambia altezza */
+    height: 1.5rem !important;
     width: auto !important;
 }

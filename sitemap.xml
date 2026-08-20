@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
-         <lastmod>2025-03-01</lastmod>
+         <loc>https://pennacchiomatteo.github.io/MattsHub/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/about/</loc>
-         <lastmod>2025-03-01</lastmod>
+         <loc>https://pennacchiomatteo.github.io/MattsHub/about/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/blog/</loc>
-         <lastmod>2025-03-01</lastmod>
+         <loc>https://pennacchiomatteo.github.io/MattsHub/blog/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/works/</loc>
-         <lastmod>2025-03-01</lastmod>
+         <loc>https://pennacchiomatteo.github.io/MattsHub/works/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://pennacchiomatteo.github.io/MattsHub/blog/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
 </urlset>
