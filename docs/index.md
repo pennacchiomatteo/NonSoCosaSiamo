@@ -1,6 +1,3 @@
 # Benvenuti su Matt'sHub
 
-![foto][def].
-
-
-[def]: mattsub.LOGO.png
+![foto](mattsub.LOGO.png).
