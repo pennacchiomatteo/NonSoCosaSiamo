@@ -1,4 +1,4 @@
-# Lavori
+# Lavori 2024/2025
 
 Bicchiere in 3D realizzato con Blender. E' stata un' avventura simpatica ma non con pochi ostacoli ma alla fine forse l'unico difetto è che il bicchiere sembra sia posizionato in aria.
 ![Foto](bicchiere/bicchiere.jpg)
