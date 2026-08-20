@@ -11,6 +11,7 @@ theme:
 
 
 
+
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -58,8 +59,9 @@ theme:
 nav:
 - Home: index.md
 - DOPPIA F: about.md
-    - RHINO: about.md
+   - RHINO: about.md
 - Aggiornamenti: blog.md
 - Lavori: works.md
+
 
 
