@@ -14,3 +14,14 @@ Sperimentazioni su Rhino usando sottrazione, unione e intersezione
 ![foto](unione.png)
 ![foto](sottrazione.png)
 ![foto](intersezione.png)
+
+#### ALTRE PROVE, ANIMAZIONI, RISULTATI FINALI
+
+Prendendo ispirazione da foto su internet o da dipinti quale  Sky and the Water di Escher, le sperimentazioni con Rhino e Grasshopper continuano fino ad arrivare all'idea di animare i lavori rendendoli gif grazie a Photoshop.
+![foto](prova.png)
+![foto](prova2.png)
+![foto](prova3.png)
+![gif](gif.gif)
+![gif](gif2.gif)
+![gif](gif3.gif)
+![gif](gif4.gif)
