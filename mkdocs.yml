@@ -18,7 +18,7 @@ theme:
         name: Switch to light mode
 
   features:
-    - navigation.instant
+    # - navigation.instant
     - navigation.progress
     - navigation.preview
     - navigation.tracking
