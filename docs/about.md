@@ -8,7 +8,7 @@ Sotto la piattaforma sono installate delle turbine biomimetiche e membrane filtr
 
 [Scarica la foto](pattern.jpg)
 
-#  RHINO
+## RHINO
 
 Sperimentazioni su Rhino usando sottrazione, unione e intersezione
 ![foto](unione.png)
