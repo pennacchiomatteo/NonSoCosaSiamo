@@ -30,4 +30,4 @@ Prendendo ispirazione da foto su internet o da dipinti quale  Sky and the Water 
 
 Il risultato finale è poi nato grazie all'idea di realizzare un sito in cui premendo determinati tasti si genera un pattern grazie a un codice molto elastico che permette di sentire suoni a ogni tasto premuto e di poter vedere una frase al completamento del pattern.
 
-[Scopri il sito] (<https://editor.p5js.org/pennacchiomatteo2/sketches/gEiAbkCX1>)
+[Scopri il sito](<https://editor.p5js.org/pennacchiomatteo2/sketches/gEiAbkCX1>)
